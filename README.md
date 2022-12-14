@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vikram</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100% ,margin:auto" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram3716&label=Profile%20views&color=0e75b6&style=flat" alt="vikram3716" /> </p>
 

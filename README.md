@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100% ,margin:auto" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram3716&label=Profile%20views&color=0e75b6&style=flat" alt="vikram3716" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=vikram3716&label=Profile%20views&color=0e75b6&style=flat" alt="vikram3716" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram3716" alt="vikram3716" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram3716" alt="vikram3716" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 

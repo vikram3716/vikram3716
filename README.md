@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://vikramsharma.netlify.app/](https://vikramsharma.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vikram-sharma.netlify.app/](https://vikram-sharma.netlify.app/)
 
 - 💬 Ask me about **React,HTML,Javascript,CSS.**
 
